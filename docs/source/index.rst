@@ -22,3 +22,4 @@ Contents
    api
    test
    getting started 
+   computational options
