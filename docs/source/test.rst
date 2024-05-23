@@ -1,13 +1,5 @@
 Test
-===
-
-#Usage
-#=====
-
-#.. _test
-
-#Test
-#----
+====
 
 To use Bagh, first test it using pip:
 
