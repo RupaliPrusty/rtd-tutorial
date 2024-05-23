@@ -24,3 +24,4 @@ Contents
    getting_started 
    computational_options
    contact_information
+   Team
