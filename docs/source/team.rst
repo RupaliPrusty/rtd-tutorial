@@ -5,4 +5,4 @@ Bagh development team
 | Tamoghna Mukhopadhyay
 | Kamal Majee
 | Somesh Chamoli
-| Amita Manna
+| Amrita Manna
