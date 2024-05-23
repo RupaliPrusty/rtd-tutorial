@@ -6,8 +6,8 @@ Getting started
 Getting startred
 ----------------
 
-To use Bagh, first install it using pip:
+To use Bagh, first getting started it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install Bagh
+   (.venv) $ pip getting started Bagh
