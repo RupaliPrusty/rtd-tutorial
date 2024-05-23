@@ -23,4 +23,4 @@ Contents
    test
    getting started 
    computational options
-   team
+   contact_information
