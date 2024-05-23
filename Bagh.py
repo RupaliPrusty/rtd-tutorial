@@ -1,5 +1,5 @@
 """
-Bagh- Python library for cooks and food lovers.
+Bagh- Python library for quantum chemistry calculation 
 """
 
 __version__ = "0.1.0"
