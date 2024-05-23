@@ -23,4 +23,3 @@ Contents
    test
    getting started 
    computational options
-   bagh development team
