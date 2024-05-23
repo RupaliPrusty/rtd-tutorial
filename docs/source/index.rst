@@ -21,6 +21,6 @@ Contents
    usage
    api
    test
-   getting started 
-   computational options
+   getting_started 
+   computational_options
    contact_information
