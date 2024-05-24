@@ -5,8 +5,8 @@
 Installation
 ============
 
-For running Bagh you will need prerequisites:
-#############################################
+Prerequisites:
+###############
 
 - python3 (an easy installation guide can be found at https://software.intel.com/content/www/us/en/develop/articles/how-to-install-the-python-version-of-intel-daal-in-linux.html)
 - numpy
