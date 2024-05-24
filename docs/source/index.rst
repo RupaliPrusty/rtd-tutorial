@@ -6,10 +6,7 @@ Welcome to Bagh's documentation!
    :alt: bagh logo
    :target: .
 
-**Bagh**  is a Python library for Quantum chemistry calculation
-that solves quantum chemistry problems.
-It pulls data from the  `CCB  database <https://cccbdb.nist.gov//>`_
-and offers a *simple* and *intuitive* API.
+**Bagh** is an electronic structure theory package developed in the Electronic Structure Theory Group, IIT Bombay. It mostly focuses on many body wave-functions based methods with special emphasis on relativistic effects.  Bagh is written primarily in python with bottleneck parts written in cython and fortran
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
