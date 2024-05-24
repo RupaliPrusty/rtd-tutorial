@@ -21,8 +21,6 @@ Contents
 .. toctree::
 
    usage
-   api
-   test
    getting_started 
    computational_options
    contact_information
