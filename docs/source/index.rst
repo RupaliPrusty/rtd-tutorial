@@ -25,3 +25,4 @@ Contents
    computational_options
    contact_information
    team
+   couple_cluster.rst
