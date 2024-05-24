@@ -1,7 +1,7 @@
 Bagh development team
 #####################
 
-- Achintya Kumar Dutta (e-mail: achintyachem@iitb.ac.in)
+- Achintya Kumar Dutta (e-mail: achintya@chem.iitb.ac.in)
 - Amrita Manna
 - Bhavnesh Jangid
 - Kamal Majee
