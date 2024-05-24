@@ -39,10 +39,5 @@ Installation steps
    ./make
 
    
-That's it !
------------
 
-
-**Congratulations you are ready to run bagh**
----------------------------------------------
 
