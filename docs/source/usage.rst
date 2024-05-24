@@ -25,14 +25,18 @@ Prerequisites:
 Installation steps
 ------------------
 
-git clone < https://github.com/achintya007/bagh.git> 
+.. code-block:: shell 
+
+   git clone  https://github.com/achintya007/bagh.git
 
 | set f90comp in the Makefile to the fortran compiler being used
 | set MKLROOT according to the path of mkl libraries in the system being used
 | set linking_opt also according to your system
 
 
-./make
+.. code-block:: shell
+
+   ./make
 
    
 That's it !
