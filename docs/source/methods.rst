@@ -1,8 +1,11 @@
-COUPLED CLUSTER
+METHODS
 ===============
 
+COUPLED CLUSTER
+################
+
 CCSD
-####
+----
 
 .. code-block:: shell 
 
