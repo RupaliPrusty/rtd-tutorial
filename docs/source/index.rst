@@ -1,5 +1,10 @@
 Welcome to Bagh's documentation!
 ===================================
+.. image:: logo/bagh_logo.png
+   :width: 200px
+   :align: left
+   :alt: bagh logo
+   :target: .
 
 **Bagh**  is a Python library for Quantum chemistry calculation
 that solves quantum chemistry problems.
