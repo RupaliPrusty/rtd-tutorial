@@ -27,7 +27,7 @@ Installation steps
 
 .. code-block:: shell 
 
-   git clone  https://github.com/achintya007/bagh.git
+   git clone https://github.com/achintya007/bagh.git
 
 | set f90comp in the Makefile to the fortran compiler being used
 | set MKLROOT according to the path of mkl libraries in the system being used
