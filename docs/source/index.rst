@@ -25,4 +25,4 @@ Contents
    computational_options
    contact_information
    team
-   coupled_cluster
+   methods 
