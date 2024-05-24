@@ -1,13 +1,44 @@
-Usage
-=====
+:github_url: https://rupaliprusty-rtd-tutorial.readthedocs-hosted.com/en/latest/
 
 .. _installation:
 
 Installation
-------------
+============
 
-To use Bagh, first install it using pip:
+For running Bagh you will need prerequisites:
+#############################################
 
-.. code-block:: console
+- python3 (an easy installation guide can be found at https://software.intel.com/content/www/us/en/develop/articles/how-to-install-the-python-version-of-intel-daal-in-linux.html)
+- numpy
+- scipy
+- pandas
+- geometric
+- pyberny 
+- ifort 
+- mkl libraries
+- cython
+- pyscf (can be easily installed using pip)
+- make
 
-   (.venv) $ pip install Bagh
+
+
+Installation steps
+------------------
+
+git clone < https://github.com/achintya007/bagh.git> 
+
+| set f90comp in the Makefile to the fortran compiler being used
+| set MKLROOT according to the path of mkl libraries in the system being used
+| set linking_opt also according to your system
+
+
+./make
+
+   
+That's it !
+-----------
+
+
+**Congratulations you are ready to run bagh**
+---------------------------------------------
+
